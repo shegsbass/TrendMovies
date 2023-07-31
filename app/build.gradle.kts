@@ -85,5 +85,8 @@ dependencies {
     //Coroutine
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.3.9")
 
+    //Coil - for loading images from server
+    implementation("io.coil-kt:coil-compose:2.4.0")
+
 
 }
