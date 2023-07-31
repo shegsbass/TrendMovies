@@ -1,4 +1,4 @@
-package com.shegs.trendmovies.ui.theme
+package com.shegs.trendmovies.view.theme
 
 import android.app.Activity
 import android.os.Build

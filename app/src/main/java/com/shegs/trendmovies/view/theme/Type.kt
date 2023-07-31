@@ -1,4 +1,4 @@
-package com.shegs.trendmovies.ui.theme
+package com.shegs.trendmovies.view.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
