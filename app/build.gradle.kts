@@ -72,6 +72,9 @@ dependencies {
     implementation("com.squareup.retrofit2:retrofit:2.9.0")
     implementation ("com.squareup.retrofit2:converter-gson:2.3.0")
 
+    //Logging retrofit
+    implementation("com.squareup.okhttp3:logging-interceptor:4.9.0")
+
     val lifecycle_version = "2.6.1"
 
     // ViewModel
